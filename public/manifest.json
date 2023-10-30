@@ -3,37 +3,37 @@
   "name": "notification sample",
   "icons": [
     {
-      "src": "/src/images/panda-bear.png",
+      "src": "/images/panda-bear.png",
       "type": "image/png",
       "sizes": "48x48"
     },
     {
-      "src": "/src/images/panda-bear.png",
+      "src": "/images/panda-bear.png",
       "type": "image/png",
       "sizes": "96x96"
     },
     {
-      "src": "/src/images/panda-bear.png",
+      "src": "/images/panda-bear.png",
       "type": "image/png",
       "sizes": "144x144"
     },
     {
-      "src": "/src/images/panda-bear.png",
+      "src": "/images/panda-bear.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "/src/images/panda-bear.png",
+      "src": "/images/panda-bear.png",
       "type": "image/png",
       "sizes": "256x256"
     },
     {
-      "src": "/src/images/panda-bear.png",
+      "src": "/images/panda-bear.png",
       "type": "image/png",
       "sizes": "384x384"
     },
     {
-      "src": "/src/images/panda-bear.png",
+      "src": "/images/panda-bear.png",
       "type": "image/png",
       "sizes": "512x512"
     }

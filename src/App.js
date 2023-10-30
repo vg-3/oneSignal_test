@@ -6,7 +6,7 @@ import logo from "./logo.png";
 function App() {
   useEffect(() => {
     OneSignal.init({
-      appId: "b90dbf46-a2d8-42a1-b779-53afa517739d",
+      appId: "eaddcb81-91b3-45f3-ba58-67372636dcd5",
     });
   }, []);
 
